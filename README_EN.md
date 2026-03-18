@@ -96,6 +96,13 @@ If you have any of these concerns, this project might be suitable for you.
 - 🛡️ **Security Control**: Access restrictions, rate limiting
 - 🌐 **Proxy Support**: Support for HTTP/SOCKS5 proxies
 
+### Custom Extensions (This Fork)
+
+This repository extends the upstream project with the following custom features:
+
+- 📋 **Feishu Bitable Integration**: Integrates with Feishu Bitable for syncing and managing accounts, API Keys, and other configurations from multi-dimensional tables
+- 🤖 **Automated Account Provisioning**: Supports automated account creation and assignment workflows to reduce manual operations
+
 ---
 
 ## 📋 Deployment Requirements
