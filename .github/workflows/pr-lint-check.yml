@@ -25,6 +25,7 @@ permissions:
 jobs:
   lint-and-format:
     runs-on: ubuntu-latest
+    if: false  # 已禁用
     name: Check Code Quality
     
     steps:

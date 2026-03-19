@@ -8,6 +8,7 @@ on:
 jobs:
   sync-pricing:
     runs-on: ubuntu-latest
+    if: false  # 已禁用
     permissions:
       contents: write
     steps:
